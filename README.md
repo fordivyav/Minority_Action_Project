@@ -9,14 +9,12 @@ example of a typical innovative city in the United States.
 The specific objectives of this project are the following:
 1. Determine the distribution of businesses and resources in Boston to gain insight into the distribution of
 businesses and resources in a typical innovative American city
-
-<img src="[https://your-image-url.type](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/2668802c-1ec0-4413-8dad-fc307361e8ed)" width="100" height="100">
-
+<img src="https://github.com/fordivyav/Minority_Action_Project/assets/20211731/2668802c-1ec0-4413-8dad-fc307361e8ed)" width="300" height="200">
+<img src="https://github.com/fordivyav/Minority_Action_Project/assets/20211731/c3399568-fc5e-4576-bad2-1d8fdd961a89)" width="300" height="200">
 
 2. Obtain statistics on various demographics such as ethnicity, income, gender, sex, occupation, and
 education level of entrepreneurs throughout the United States.
-
-![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/18bf2257-f107-46de-bea6-a63e0c62fcf1)
+<img src="https://github.com/fordivyav/Minority_Action_Project/assets/20211731/18bf2257-f107-46de-bea6-a63e0c62fcf1)" width="300" height="150">
 
 3. Measure the change in entrepreneurial growth throughout the years in the U.S. Does growth or decline
 match minority entrepreneurial growth/decline?
