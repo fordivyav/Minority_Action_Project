@@ -5,12 +5,20 @@ minority-led startups in innovative cities in the United States. The objective i
 success of minority-led tech companies in innovative cities. We looked specifically at Boston as an
 example of a typical innovative city in the United States. 
 
+
 The specific objectives of this project are the following:
 1. Determine the distribution of businesses and resources in Boston to gain insight into the distribution of
 businesses and resources in a typical innovative American city
 
+![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/7bc9cf9e-b2d8-471a-962d-40308069849c)
+![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/2668802c-1ec0-4413-8dad-fc307361e8ed)
+
+
 2. Obtain statistics on various demographics such as ethnicity, income, gender, sex, occupation, and
 education level of entrepreneurs throughout the United States.
+
+![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/9044a9f8-0f51-4a67-91d4-3b3b1ba0d911)
+![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/18bf2257-f107-46de-bea6-a63e0c62fcf1)
 
 3. Measure the change in entrepreneurial growth throughout the years in the U.S. Does growth or decline
 match minority entrepreneurial growth/decline?
