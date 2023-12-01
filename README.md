@@ -10,7 +10,7 @@ The specific objectives of this project are the following:
 1. Determine the distribution of businesses and resources in Boston to gain insight into the distribution of
 businesses and resources in a typical innovative American city
 
-![image](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/2668802c-1ec0-4413-8dad-fc307361e8ed)
+<img src="[https://your-image-url.type](https://github.com/fordivyav/Minority_Action_Project/assets/20211731/2668802c-1ec0-4413-8dad-fc307361e8ed)" width="100" height="100">
 
 
 2. Obtain statistics on various demographics such as ethnicity, income, gender, sex, occupation, and
